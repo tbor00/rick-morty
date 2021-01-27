@@ -1,0 +1,19 @@
+.logo {
+    height: 30px;
+}
+
+p {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+
+.flex {
+    text-decoration: none !important;
+}
+
+
+.flex:hover {
+    opacity: .8;
+}
+

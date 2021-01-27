@@ -1,0 +1,22 @@
+.mainter {
+    z-index: 0 !important;
+    width: 100% !important;
+    height: 500px !important;
+    background-image: url("../img/bg-img.jpg") !important;
+    background-color: rgb(39, 38, 38) !important;
+    background-blend-mode: soft-light !important;  
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    object-fit: cover !important;
+    background-position: center center !important;
+}
+
+.center {
+    padding-top: 6em !important;
+}
+
+@media (max-width: 400px){
+    .pic {
+        height: 200px !important;
+    }
+}

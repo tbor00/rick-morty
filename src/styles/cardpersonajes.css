@@ -1,0 +1,20 @@
+.card {
+    margin-top: 20px;
+    width: 18rem;
+    color:black!important;  
+    background-color: rgb(66, 105, 71) !important;
+    border-radius: 10px !important;
+    transition:all .5s ease-in-out;       
+    -webkit-transform:scale(0.9);transform:scale(0.9);
+}
+
+.card:hover {
+    transition:all .5s ease-in-out;
+    
+    -webkit-transform:scale(1);transform:scale(1);
+}
+
+.block{
+    display: block !important;
+}
+
